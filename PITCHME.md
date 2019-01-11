@@ -9,12 +9,12 @@
 #### 述职大纲
 @snapend
 
-@snap[west span-55]
+@snap[west]
 @ul[spaced]
-1. 2018年工作回顾
-2. 我的反思
-3. 2019年工作规划
-4. 对部门和公司的建议
+- 2018年工作回顾
+- 我的反思
+- 2019年工作规划
+- 对部门和公司的建议
 @ulend
 @snapend
 
@@ -36,10 +36,10 @@
 
 @snap[west span-55]
 @ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- 2018年工作回顾
+- 我的反思
+- 2019年工作规划
+- 对部门和公司的建议
 @ulend
 @snapend
 
