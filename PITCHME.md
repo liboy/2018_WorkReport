@@ -1,10 +1,25 @@
-# Let's Get Started
+# 2018年终述职报告
+
+- 部门：爱校研发部
+- 岗位：iOS开发工程师
+- 姓名：李博
 
 ---
 
-## Add Some Slide Candy
+## 述职大纲
 
-![](assets/img/presentation.png)
+
+1、2017年工作回顾
+
+
+2、我的反思
+
+
+3、2019年工作规划
+
+
+4、对部门和公司的建议
+
 
 ---
 @title[Customize Slide Layout]
