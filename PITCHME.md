@@ -5,19 +5,20 @@
 - 姓名：李博
 
 ---
+@snap[north-west]
+#### 述职大纲
+@snapend
 
-## 述职大纲
-
-1. 2017年工作回顾
+@snap[west span-55]
+1. 2018年工作回顾
 2. 我的反思
 3. 2019年工作规划
 4. 对部门和公司的建议
+@snapend
 
 ---
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
+@snap[north-west]
+#### 工作回顾
 @snapend
 
 @snap[east span-50]
@@ -46,7 +47,7 @@
 
 ---?image=assets/img/presenter.jpg
 
-@snap[north span-100 headline]
+@snap[north span-100 headline text-white]
 ## Now It's Your Turn
 @snapend
 
