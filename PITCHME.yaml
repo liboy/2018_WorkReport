@@ -1,17 +1,15 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
-#
 
 #
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+# theme : simple
 
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+# theme-override: assets/css/PITCHME.css
 
 #
 # Logo Setting
@@ -30,18 +28,11 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : ""
+footnote : "© 2018 liboy "
 
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
-published : true
+# published : true
 
-#
-# Twitter Card Settings [Pro Only]
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
-title : "述职报告"
-description : "2018述职报告总结."
-thumbnail : 
