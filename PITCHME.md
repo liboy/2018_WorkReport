@@ -10,10 +10,12 @@
 @snapend
 
 @snap[west span-55]
+@ul[spaced]
 1. 2018年工作回顾
 2. 我的反思
 3. 2019年工作规划
 4. 对部门和公司的建议
+@ulend
 @snapend
 
 ---
