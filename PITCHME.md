@@ -8,15 +8,10 @@
 
 ## 述职大纲
 
-
-1、2017年工作回顾
-
-2、我的反思
-
-3、2019年工作规划
-
-4、对部门和公司的建议
-
+1. 2017年工作回顾
+2. 我的反思
+3. 2019年工作规划
+4. 对部门和公司的建议
 
 ---
 @title[Customize Slide Layout]
@@ -33,7 +28,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+#### 工作回顾
 @snapend
 
 @snap[west span-55]
