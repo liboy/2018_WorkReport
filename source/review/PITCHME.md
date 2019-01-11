@@ -1,19 +1,13 @@
 ---?image=template/img/pencils.jpg
-@title[Split-Screen Templates]
 
-## @color[black](Split-Screen<br> Slide Templates)
+## @color[black](2018<br> 工作回顾)
 
 @fa[arrow-down text-black]
 
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
-
 +++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
-@title[Heading + List Body]
 
-@snap[west text-16 text-bold text-italic text-orange span-50]
-Topics to be covered today
+@snap[west text-16 text-bold text-orange span-50]
+
 @snapend
 
 @snap[east text-white span-45]
