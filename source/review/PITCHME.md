@@ -4,6 +4,20 @@
 
 @fa[arrow-down text-black]
 
+---
+@snap[north-west]
+#### 工作回顾
+@snapend
+
+@snap[west span-55]
+![-w725](media/15472006506731.jpg)
+@snapend
+
+@snap[east span-55]
+![-w725](media/15472007260695.jpg)
+
+@snapend
+
 +++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
 @title[Text + Image Centered]
 

@@ -4,12 +4,13 @@
 - 岗位：iOS开发工程师
 - 姓名：李博
 
----?color=#E58537
+---?image=template/img/pencils.jpg
+
 @snap[north-west]
-#### 述职大纲
+## @color[black](述职大纲)
 @snapend
 
-@snap[west]
+@snap[west span-35]
 @ul[spaced]
 - 2018年工作回顾
 - 我的反思
@@ -20,22 +21,7 @@
 
 ---?include=source/review/PITCHME.md
 
----
-@snap[north-west]
-#### 工作回顾
-@snapend
-
-@snap[west span-50]
-![-w725](media/15472006506731.jpg)
-@snapend
-
-@snap[east span-50]
-![-w725](media/15472007260695.jpg)
-
-@snapend
-
 ---?color=#E58537
-
 @snap[north-west]
 #### 工作回顾
 @snapend
