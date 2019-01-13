@@ -4,7 +4,7 @@
 
 @fa[arrow-down text-black]
 
----
++++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
 @snap[north-west]
 #### 工作回顾
 @snapend
