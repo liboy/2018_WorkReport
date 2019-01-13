@@ -9,11 +9,11 @@
 #### 工作回顾
 @snapend
 
-@snap[west span-55]
+@snap[west span-50]
 ![-w725](media/15472006506731.jpg)
 @snapend
 
-@snap[east span-55]
+@snap[east span-50]
 ![-w725](media/15472007260695.jpg)
 
 @snapend
