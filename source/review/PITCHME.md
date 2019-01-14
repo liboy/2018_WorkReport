@@ -21,6 +21,28 @@
 @size[1.5em](14个APP)
 @snapend
 
++++?color=black
+
+@snap[west span-45]
+里程牌
+@snapend
+
+@snap[north-east span-60 fragment]
+@box[bg-purple text-white](1.#APP家的上线，使家长APP更加灵活和多变，交换不同模板和UI.)
+@snapend
+
+@snap[east span-60 fragment]
+@box[bg-orange text-white](2.#iOS自动打包，结束了研发频繁手动打包发布上线的繁重和重复工作.)
+@snapend
+
+@snap[south-east span-60 fragment]
+@box[bg-pink text-white](3.#爱校星共享APP上线，让家长APP面向更广小众培训机构申请即可入驻.)
+@snapend
+
+@snap[south-west template-note text-white]
+Boxed text fragments template.
+@snapend
+
 +++
 @snap[north-west]
 #### 工作回顾
@@ -55,7 +77,7 @@
 @snapend
 
 @snap[south text-white  span-100]
-@size[1.5em](节省了90%时间)
+@size[1em](节省了90%时间)
 @snapend
 
 
