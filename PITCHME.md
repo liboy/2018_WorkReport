@@ -10,7 +10,7 @@
 ## @color[black](述职大纲)
 @snapend
 
-@snap[west span-35]
+@snap[west]
 @ul[spaced]
 - 2018年工作回顾
 - 我的反思
