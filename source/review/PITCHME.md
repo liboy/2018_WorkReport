@@ -33,17 +33,15 @@
 ![-w725](media/15472006506731.jpg)
 @snapend
 
+@snap[east span-50]
+![-w725](media/15472007260695.jpg)
+@snapend
+
 @snap[midpoint]
 @img[split-screen-img span-55](template/img/developer.jpg)
 @snapend
 
-@snap[east span-50]
-![-w725](media/15472007260695.jpg)
-
-@snapend
-
 +++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
-@title[Text + Image Centered]
 
 @snap[east span-30 text-08 text-center text-white]
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
