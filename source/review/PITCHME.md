@@ -4,13 +4,37 @@
 
 @fa[arrow-down text-black]
 
-+++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
++++
+@snap[north-west]
+#### 工作回顾
+@snapend
+
+@snap[west span-55]
+@ul[spaced]
+* 类：137个
+* 封装类： 21个
+* 代码：35487行
+* 注释：8324行
+* bug：36个
+* 优化：49个
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/img/conference.png)
+@snapend
+
++++
 @snap[north-west]
 #### 工作回顾
 @snapend
 
 @snap[west span-50]
 ![-w725](media/15472006506731.jpg)
+@snapend
+
+@snap[midpoint]
+@img[split-screen-img span-55](template/img/developer.jpg)
 @snapend
 
 @snap[east span-50]
