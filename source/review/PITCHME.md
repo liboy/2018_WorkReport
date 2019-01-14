@@ -23,8 +23,8 @@
 
 +++?color=black
 
-@snap[west span-45]
-## 里程牌
+@snap[west span-35]
+# 里程牌
 @snapend
 
 @snap[north-east span-60 fragment]
@@ -37,10 +37,6 @@
 
 @snap[south-east span-60 fragment]
 @box[bg-pink text-white](3.#爱校星共享APP上线，让家长APP面向更广小众培训机构申请即可入驻.)
-@snapend
-
-@snap[south-west template-note text-white]
-Boxed text fragments template.
 @snapend
 
 +++
