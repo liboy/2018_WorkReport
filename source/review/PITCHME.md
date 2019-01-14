@@ -4,6 +4,23 @@
 
 @fa[arrow-down text-black]
 
++++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
+@snap[north-west]
+#### 工作回顾
+@snapend
+
+@snap[east span-30 text-28 text-left text-white]
+@size[1.5em](10套模板)
+@snapend
+
+@snap[midpoint]
+@img[split-screen-img span-55](template/img/developer.jpg)
+@snapend
+
+@snap[west span-35 text-28 text-right]
+@size[1.5em](14个APP)
+@snapend
+
 +++
 @snap[north-west]
 #### 工作回顾
@@ -24,36 +41,23 @@
 @img[shadow](assets/img/conference.png)
 @snapend
 
-+++?image=template/img/bg/blue.jpg&position=bottom&size=100% 20%
++++?image=template/img/bg/blue.jpg&position=bottom&size=100% 15%
 @snap[north-west]
 #### 工作回顾
 @snapend
 
 @snap[west span-50]
-![-w725](media/15472006506731.jpg)
+![](media/15472006506731.jpg)
 @snapend
 
 @snap[east span-50]
-![-w725](media/15472007260695.jpg)
+![](media/15472007260695.jpg)
 @snapend
 
 @snap[south text-white  span-100]
 @size[1.5em](节省了90%时间)
 @snapend
 
-+++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
-
-@snap[east span-30 text-28 text-center text-white]
-@size[1.5em](10套模板)
-@snapend
-
-@snap[midpoint]
-@img[split-screen-img span-55](template/img/developer.jpg)
-@snapend
-
-@snap[west span-35]
-@size[1.5em](14个APP)
-@snapend
 
 +++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
 
