@@ -37,8 +37,11 @@
 ![-w725](media/15472007260695.jpg)
 @snapend
 
-@snap[midpoint]
+<!--@snap[midpoint]
 @img[split-screen-img span-55](template/img/developer.jpg)
+@snapend-->
+@snap[south text-pink span-100]
+@size[1.5em](90%)
 @snapend
 
 +++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
