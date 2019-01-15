@@ -100,27 +100,23 @@
 +++?image=template/img/cityscape.png&position=bottom&size=100% 60%
 
 @snap[north-west span-40]
-@box[bg-green text-white demo-box-step-padding](1. Plan#Lorem ipsum dolor sit amet eiusmod)
+@box[bg-green text-white demo-box-step-padding](1. 一门语言#自学脚本语言)
 @snapend
 
 @snap[north-east span-40]
-@box[bg-orange text-white demo-box-step-padding rounded](2. Build#Sed do eiusmod tempor labore)
+@box[bg-orange text-white demo-box-step-padding](2. 一次创新#iOS自动化批量打包不同APP)
 @snapend
 
 @snap[south-east span-40]
-@box[bg-pink text-white demo-box-step-padding](3. Measure#Cupidatat non proident sunt in)
+@box[bg-pink text-white demo-box-step-padding](3. 一个培训#组织培训运营小伙伴打包发布上线App)
 @snapend
 
 @snap[south-west span-40]
-@box[bg-blue text-white demo-box-step-padding waved](4. Repeat#Ut enim ad minim veniam prodient)
+@box[bg-blue text-white demo-box-step-padding](4. 三个文档#1.整理编写iOS开发规范文档<br>2.编写自动化打包脚本使用文档<br>3.APP发布打包发布指南)
 @snapend
 
 @snap[midpoint]
 @fa[refresh fa-3x]
-@snapend
-
-@snap[south template-note text-white]
-Mixed styles<br>boxed template.
 @snapend
 
 
