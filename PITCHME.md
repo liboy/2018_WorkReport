@@ -78,7 +78,7 @@
 @ulend
 @snapend
 
-@snap[north-east span-50]
+@snap[north-east span-30]
 @ul[spaced]
 * icon和启动图替换
 * 代码里面文案修改
@@ -86,7 +86,7 @@
 @ulend
 @snapend
 
-@snap[south-east span-50]
+@snap[west span-40]
 @ul[spaced]
 * 修改工程名字
 * 修改类名，类前缀修改
@@ -94,16 +94,16 @@
 * 打乱方法顺序
 * 添加混淆代码、一些无用的代码
 
-* 图片资源改名；
-* 适当添加一些无用的资源；
-* 改变图片的hash值，不要让检测到以前被拒的资源
+* 图片资源改名
+* 适当添加无用的资源
+* 改变图片的hash值
 @ulend
 @snapend
 
-@snap[south-west span-50]
+@snap[south-east span-30]
 @ul[spaced]
-1. 打包电脑
-2. 上传IP
-3. 材料相似
+* 打包电脑
+* 上传IP
+* 材料相似
 @ulend
 @snapend
