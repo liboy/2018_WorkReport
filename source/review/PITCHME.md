@@ -43,16 +43,21 @@
 @snap[north-west]
 #### 工作回顾
 @snapend
-@div[left-25 fragment] 
+@div[left-25] 
+<br><br>
 ![](media/d1.png)
 @divend
-@div[right-50 fragment] 
+
+@div[right-25] 
+<br><br>
 ![](media/d2.png) 
 @divend
-@div[left-25 fragment] 
+
+@div[left-25] 
 ![](media/d3.png)
 @divend
-@div[right-50 fragment] 
+
+@div[right-25] 
 ![](media/d4.png) 
 @divend
 
