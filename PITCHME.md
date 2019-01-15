@@ -67,8 +67,8 @@
 #### 2019工作规划
 @snapend
 
-### 减低审核风险
 @snap[midpoint span-30]
+减低审核风险
 @ul[spaced]
 * UI部分
 * 代码部分
