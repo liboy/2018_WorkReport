@@ -51,7 +51,10 @@
 @snapend
 
 @snap[midpoint]
+@ul[spaced]
+@img[split-screen-img span-55](assets/img/d5.png)
 @img[split-screen-img span-55](assets/img/d6.png)
+@ulend
 @snapend
 
 @snap[west span-55]
