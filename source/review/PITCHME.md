@@ -24,7 +24,7 @@
 +++?color=black
 
 @snap[west span-20]
-# 里程牌
+# 里程碑
 @snapend
 
 @snap[north-east span-80 fragment]
@@ -45,6 +45,27 @@
 @snapend
 
 @snap[west span-55]
+自定义的工具
+@ul[spaced]
+* 切换不同机构
+* 切换不同环境
+* 切换不同模板
+* 添加自定义机构ID
+* 随时查看调试日志
+* 添加自定义IP
+@ulend
+@snapend
+
+@snap[east span-50]
+![SNOWMAN](assets/img/debugger.gif)
+@snapend
+
++++
+@snap[north-west]
+#### 工作回顾
+@snapend
+
+@snap[west span-55]
 @ul[spaced]
 * 类：137个
 * 封装类： 21个
@@ -57,6 +78,23 @@
 
 @snap[east span-45]
 @img[shadow](assets/img/conference.png)
+@snapend
+
++++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
+@snap[north-west]
+#### 工作回顾
+@snapend
+
+@snap[east span-30 text-28 text-left text-white]
+@size[1.5em](10套模板)
+@snapend
+
+@snap[midpoint]
+@img[split-screen-img span-55](template/img/developer.jpg)
+@snapend
+
+@snap[west span-35 text-28 text-right]
+@size[1.5em](14个APP)
 @snapend
 
 +++?image=template/img/bg/blue.jpg&position=bottom&size=100% 15%
