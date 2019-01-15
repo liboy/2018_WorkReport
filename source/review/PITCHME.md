@@ -45,15 +45,15 @@
 @snapend
 
 @snap[west span-50]
-![](assets/img/logo.png)
+![](assets/img/d1.png)
 @snapend
 
 @snap[east span-25]
-![](media/d2.jpg)
+![](assets/img/d2.png)
 @snapend
 
 @snap[east span-25]
-![](media/d3.jpg)
+![](assets/img/d3.png)
 @snapend
 
 +++
