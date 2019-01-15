@@ -25,8 +25,6 @@
 
 ## @color[black](我的成长)
 
-@fa[arrow-right text-black]
-
 @snap[north-west span-40]
 @box[bg-green text-white demo-box-step-padding](1. 一门语言#自学脚本语言并开发iOS自动打包脚本)
 @snapend
@@ -41,10 +39,6 @@
 
 @snap[south-east span-40]
 @box[bg-pink text-white demo-box-step-padding](4. 一个培训#组织培训运营小伙伴打包发布上线App)
-@snapend
-
-@snap[midpoint]
-@size[2em](成长)
 @snapend
 
 ---?image=template/img/pencils.jpg
