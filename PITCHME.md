@@ -106,3 +106,28 @@
 * 材料相似
 @ulend
 @snapend
+
+---?image=template/img/bg/pink.jpg&position=right&size=50% 100%
+@snap[north-west]
+## @color[black](市场附能)
+@snapend
+
+@snap[east span-30 text-28 text-left text-white]
+@size[2.5em](质)
+@snapend
+
+@snap[west span-35 text-28 text-right]
+@size[2.5em](量)
+@snapend
+
+---?image=template/img/pencils.jpg
+@snap[north-west]
+## @color[black](我的建议)
+@snapend
+
+@snap[west]
+@ul[spaced]
+- 
+- 
+@ulend
+@snapend
