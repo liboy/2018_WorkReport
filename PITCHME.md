@@ -23,6 +23,12 @@
 
 ---?image=template/img/pencils.jpg
 
+## @color[black](我的成长)
+
+@fa[arrow-right text-black]
+
+
+---?image=template/img/pencils.jpg
 @snap[north-west]
 ## @color[black](述职大纲)
 @snapend
