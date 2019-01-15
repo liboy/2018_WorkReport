@@ -45,7 +45,7 @@
 @snapend
 
 @snap[west span-50]
-![](media/d1.png)
+![](media/15472006506731.jpg)
 @snapend
 
 @snap[east span-25]
