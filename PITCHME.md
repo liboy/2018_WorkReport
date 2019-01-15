@@ -107,8 +107,8 @@
 @ulend
 @snapend
 
----?image=template/img/bg/pink.jpg&position=right&size=50% 100%
-@snap[north-west]
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+@snap[north]
 ## @color[black](市场附能)
 @snapend
 
@@ -125,9 +125,4 @@
 ## @color[black](我的建议)
 @snapend
 
-@snap[west]
-@ul[spaced]
-- 
-- 
-@ulend
-@snapend
+---?image=template/img/questions-3.png&size=auto 60%
