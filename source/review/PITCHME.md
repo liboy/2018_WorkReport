@@ -39,7 +39,7 @@
 @box[bg-pink text-white](3.#爱校星共享APP上线，让家长APP面向更广小众培训机构申请即可入驻.)
 @snapend
 
-+++?image=assets/img/debugger.gif&position=right&size=contain&image=template/img/bg/blue.jpg&position=bottom&size=50% 15%
++++?image=assets/img/debugger.gif&position=right&size=contain
 @snap[north-west]
 #### 工作回顾
 @snapend
@@ -56,7 +56,7 @@
 @ulend
 @snapend
 
-@snap[south-west text-white  span-100]
+@snap[south-west span-50]
 @size[1em](节省了90%时间)
 @snapend
 
