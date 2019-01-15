@@ -39,20 +39,15 @@
 @box[bg-pink text-white](3.#爱校星共享APP上线，让家长APP面向更广小众培训机构申请即可入驻.)
 @snapend
 
-+++
++++?image=assets/img/d1.png&position=right&size=contain
++++?image=assets/img/d2.png&position=right&size=contain
++++?image=assets/img/d3.png&position=right&size=contain
++++?image=assets/img/d4.png&position=right&size=contain
++++?image=assets/img/d5.png&position=right&size=contain
++++?image=assets/img/d6.png&position=right&size=contain
++++?image=assets/img/d7.png&position=right&size=contain
 @snap[north-west]
 #### 工作回顾
-@snapend
-
-@snap[east span-55]
-@ul[spaced]
-![](media/d1.png)
-![](media/d2.png)
-![](media/d3.png)
-![](media/d4.png)
-![](media/d5.png)
-![](media/d6.png)
-@ulend
 @snapend
 
 @snap[west span-55]
