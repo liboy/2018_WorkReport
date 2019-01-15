@@ -44,17 +44,13 @@
 #### 工作回顾
 @snapend
 
-@snap[west span-50]
+@div[left-50 fragment]
 ![](assets/img/d1.png)
-@snapend
+@divend
 
-@snap[east span-25]
-![](assets/img/d2.png)
-@snapend
-
-@snap[east span-25]
-![](assets/img/d3.png)
-@snapend
+@div[right-50 fragment]
+![](assets/img/d1.png)
+@divend
 
 +++
 @snap[north-west]
