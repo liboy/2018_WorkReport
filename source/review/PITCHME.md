@@ -97,6 +97,33 @@
 @size[1.5em](14个APP)
 @snapend
 
++++?image=template/img/cityscape.png&position=bottom&size=100% 60%
+
+@snap[north-west span-40]
+@box[bg-green text-white demo-box-step-padding](1. Plan#Lorem ipsum dolor sit amet eiusmod)
+@snapend
+
+@snap[north-east span-40]
+@box[bg-orange text-white demo-box-step-padding rounded](2. Build#Sed do eiusmod tempor labore)
+@snapend
+
+@snap[south-east span-40]
+@box[bg-pink text-white demo-box-step-padding](3. Measure#Cupidatat non proident sunt in)
+@snapend
+
+@snap[south-west span-40]
+@box[bg-blue text-white demo-box-step-padding waved](4. Repeat#Ut enim ad minim veniam prodient)
+@snapend
+
+@snap[midpoint]
+@fa[refresh fa-3x]
+@snapend
+
+@snap[south template-note text-white]
+Mixed styles<br>boxed template.
+@snapend
+
+
 +++?image=template/img/bg/blue.jpg&position=bottom&size=100% 15%
 @snap[north-west]
 #### 工作回顾
