@@ -76,3 +76,15 @@
 * 打包提审
 @ulend
 @snapend
+
+@snap[west span-50]
+@ul[spaced]
+* UI部分
+    * icon和启动图替换
+    * 代码里面文案修改
+    * 修改主色调
+* 代码部分
+* 资源部分
+* 打包提审
+@ulend
+@snapend
