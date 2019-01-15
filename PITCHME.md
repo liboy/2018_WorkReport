@@ -51,7 +51,7 @@
 
 ---?image=template/img/pencils.jpg
 @snap[north-west]
-## @color[black](反思)
+## @color[black](我的反思)
 @snapend
 
 @snap[west]
@@ -64,10 +64,16 @@
 
 ---?image=assets/img/presenter.jpg
 
-@snap[north span-100 headline text-white]
-## Now It's Your Turn
+@snap[north span-100 text-white]
+## 2019工作规划
 @snapend
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+@snap[west span-55]
+降低被拒风险
+@ul[spaced]
+* UI部分
+* 代码部分
+* 资源部分
+* 打包提审
+@ulend
 @snapend
