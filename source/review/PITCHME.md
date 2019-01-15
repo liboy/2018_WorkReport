@@ -61,16 +61,16 @@
 @ulend
 @snapend
 
-@div[right-25 fragment]
+@div[east fragment]
 ![](assets/img/d1.png)
 @divend
-@div[right-25 fragment]
+@div[east fragment]
 ![](assets/img/d2.png)
 @divend
-@div[right-25 fragment]
+@div[east fragment]
 ![](assets/img/d3.png)
 @divend
-@div[right-25 fragment]
+@div[east fragment]
 ![](assets/img/d4.png)
 @divend
 
