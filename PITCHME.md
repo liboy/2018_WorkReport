@@ -125,4 +125,9 @@
 ## @color[black](我的建议)
 @snapend
 
+硬件升级 or 增加补助
+
 ---?image=template/img/questions-3.png&size=auto 60%
+@snap[north-west]
+## @color[black](谢谢大家)
+@snapend
