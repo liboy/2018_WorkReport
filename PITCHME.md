@@ -46,7 +46,7 @@
 @snapend
 
 @snap[midpoint]
-@fa[refresh fa-3x]
+@size[3em](成长)
 @snapend
 
 ---?image=template/img/pencils.jpg
@@ -108,8 +108,8 @@
 @snapend
 
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
-@snap[north]
-## @color[black](市场)@color[black](附能)
+@snap[north-west]
+## @color[black](市场附能)
 @snapend
 
 @snap[east span-30 text-28 text-left text-white]
