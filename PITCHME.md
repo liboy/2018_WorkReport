@@ -62,10 +62,9 @@
 @ulend
 @snapend
 
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 text-white]
-## 2019工作规划
+---
+@snap[north-west]
+#### 2019工作规划
 @snapend
 
 @snap[west span-55]
