@@ -67,9 +67,8 @@
 #### 2019工作规划
 @snapend
 
-
 @snap[midpoint span-30]
-降低被拒风险
+家长专属App
 @ul[spaced]
 * UI部分
 * 代码部分
@@ -80,22 +79,22 @@
 
 @snap[north-east span-30]
 @ul[spaced]
-* icon和启动图替换
-* 代码里面文案修改
+* icon启动图
 * 修改主色调
+* 界面布局
 @ulend
 @snapend
 
 @snap[west span-40]
 @ul[spaced]
 * 修改工程名字
-* 修改类名，类前缀修改
-* 修改函数名前缀
-* 打乱方法顺序
-* 添加混淆代码、一些无用的代码
+* 修改类名
+* 修改函数名
+* 打乱函数顺序
+* 添加混淆代码
 
 * 图片资源改名
-* 适当添加无用的资源
+* 添加无用的资源
 * 改变图片的hash值
 @ulend
 @snapend
