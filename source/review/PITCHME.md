@@ -46,12 +46,12 @@
 
 @snap[east span-55]
 @ul[spaced]
-* ![](assets/img/d1.png)
-* ![](assets/img/d2.png)
-* ![](assets/img/d3.png)
-* ![](assets/img/d4.png)
-* ![](assets/img/d5.png)
-* ![](assets/img/d6.png)
+![](media/d1.png)
+![](media/d2.png)
+![](media/d3.png)
+![](media/d4.png)
+![](media/d5.png)
+![](media/d6.png)
 @ulend
 @snapend
 
