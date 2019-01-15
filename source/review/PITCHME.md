@@ -56,7 +56,7 @@
 @ulend
 @snapend
 
-@snap[east]
+@snap[east span-25]
 ![](media/d1.png)
 @snapend
 
