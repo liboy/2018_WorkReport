@@ -108,7 +108,7 @@
 @snapend
 
 @snap[south-west span-40]
-@box[bg-blue text-white demo-box-step-padding](3. 三个文档###1.整理编写iOS开发规范文档<br>2.编写自动化打包脚本使用文档<br>3.APP发布打包发布指南)
+@box[bg-blue text-white demo-box-step-padding](3. 三个文档##1.整理编写iOS开发规范文档<br>2.编写自动化打包脚本使用文档<br>3.APP发布打包发布指南)
 @snapend
 
 @snap[south-east span-40]
