@@ -21,6 +21,21 @@
 
 ---?include=source/review/PITCHME.md
 
+---?image=template/img/pencils.jpg
+
+@snap[north-west]
+## @color[black](述职大纲)
+@snapend
+
+@snap[west]
+@ul[spaced]
+- 2018年工作回顾
+- 我的反思
+- 2019年工作规划
+- 对部门和公司的建议
+@ulend
+@snapend
+
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline text-white]
