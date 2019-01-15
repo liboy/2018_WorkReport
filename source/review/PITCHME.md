@@ -39,12 +39,12 @@
 @box[bg-pink text-white](3.#爱校星共享APP上线，让家长APP面向更广小众培训机构申请即可入驻.)
 @snapend
 
-+++
-@snap[north-west]
-#### 工作回顾
-@snapend
-
-+++
++++?image=assets/img/d1.png&position=right&size=contain
++++?image=assets/img/d2.png&position=right&size=contain
++++?image=assets/img/d3.png&position=right&size=contain
++++?image=assets/img/d4.png&position=right&size=contain
++++?image=assets/img/d5.png&position=right&size=contain
++++?image=assets/img/d6.png&position=right&size=contain?image=assets/img/d7.png&position=right&size=contain+
 @snap[north-west]
 #### 工作回顾
 @snapend
@@ -60,19 +60,6 @@
 * 添加自定义IP
 @ulend
 @snapend
-
-@div[east fragment]
-![](assets/img/d1.png)
-@divend
-@div[east fragment]
-![](assets/img/d2.png)
-@divend
-@div[east fragment]
-![](assets/img/d3.png)
-@divend
-@div[east fragment]
-![](assets/img/d4.png)
-@divend
 
 +++
 @snap[north-west]
