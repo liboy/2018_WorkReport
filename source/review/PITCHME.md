@@ -56,11 +56,12 @@
 @ulend
 @snapend
 
-@snap[east span-25]
-![](media/d1.jpg)
+@snap[east]
+![](media/d1.png)
 @snapend
+
 @snap[east span-25]
-![](media/d2.jpg)
+![](media/d2.png)
 @snapend
 
 +++
