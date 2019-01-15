@@ -67,8 +67,8 @@
 #### 2019工作规划
 @snapend
 
-@snap[west span-55]
 降低被拒风险
+@snap[west span-50]
 @ul[spaced]
 * UI部分
 * 代码部分
