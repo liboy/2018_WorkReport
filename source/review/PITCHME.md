@@ -39,7 +39,7 @@
 @box[bg-pink text-white](3.#爱校星共享APP上线，让家长APP面向更广小众培训机构申请即可入驻.)
 @snapend
 
-+++
++++?image=assets/img/debugger.gif&position=right&size=50% 100%
 @snap[north-west]
 #### 工作回顾
 @snapend
@@ -54,10 +54,6 @@
 * 随时查看调试日志
 * 添加自定义IP
 @ulend
-@snapend
-
-@snap[east span-50]
-![SNOWMAN](assets/img/debugger.gif)
 @snapend
 
 +++
