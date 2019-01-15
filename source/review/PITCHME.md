@@ -44,15 +44,7 @@
 #### 工作回顾
 @snapend
 
-@div[left-25 fragment] 
-![](media/d1.png)
-@divend
-
-@div[right-25 fragment] 
-![](media/d2.png) 
-@divend
-
-@snap[west span-55]
+@snap[west span-50]
 自定义的工具
 @ul[spaced]
 * 切换不同机构
@@ -62,6 +54,13 @@
 * 随时查看调试日志
 * 添加自定义IP
 @ulend
+@snapend
+
+@snap[east span-25]
+![](media/d1.jpg)
+@snapend
+@snap[east span-25]
+![](media/d2.jpg)
 @snapend
 
 +++
