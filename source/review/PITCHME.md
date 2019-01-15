@@ -38,7 +38,7 @@
 @snap[south-east span-80 fragment]
 @box[bg-pink text-white](3.#爱校星共享APP上线，让家长APP面向更广小众培训机构申请即可入驻.)
 @snapend
-
+o
 +++?image=assets/img/d1.png&position=right&size=contain
 +++?image=assets/img/d2.png&position=right&size=contain
 +++?image=assets/img/d3.png&position=right&size=contain
