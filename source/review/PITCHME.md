@@ -97,30 +97,6 @@
 @size[1.5em](14个APP)
 @snapend
 
-+++?image=template/img/cityscape.png&position=bottom&size=100% 60%
-
-@snap[north-west span-40]
-@box[bg-green text-white demo-box-step-padding](1. 一门语言#自学脚本语言并开发iOS自动打包脚本)
-@snapend
-
-@snap[north-east span-40]
-@box[bg-orange text-white demo-box-step-padding](2. 一次创新#iOS自动化批量打包不同APP)
-@snapend
-
-@snap[south-west span-40]
-@box[bg-blue text-white demo-box-step-padding](3. 三个文档#1.整理编写iOS开发规范文档<br>2.编写自动化打包脚本使用文档<br>3.APP发布打包发布指南)
-@snapend
-
-@snap[south-east span-40]
-@box[bg-pink text-white demo-box-step-padding](4. 一个培训#组织培训运营小伙伴打包发布上线App)
-@snapend
-
-
-
-@snap[midpoint]
-@fa[refresh fa-3x]
-@snapend
-
 
 +++?image=template/img/bg/blue.jpg&position=bottom&size=100% 15%
 @snap[north-west]
