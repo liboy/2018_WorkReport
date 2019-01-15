@@ -56,8 +56,8 @@
 @ulend
 @snapend
 
-@snap[south-west span-50]
-@size[1em](节省了90%时间)
+@snap[south-west text-red  span-50]
+@size[1em](提升测试和调试效率30%)
 @snapend
 
 +++
