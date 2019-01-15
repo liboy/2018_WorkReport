@@ -50,6 +50,10 @@
 #### 工作回顾
 @snapend
 
+@snap[midpoint]
+@img[split-screen-img span-55](assets/img/d6.png)
+@snapend
+
 @snap[west span-55]
 自定义的工具
 @ul[spaced]
