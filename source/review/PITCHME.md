@@ -44,7 +44,7 @@
 +++?image=assets/img/d3.png&position=right&size=contain
 +++?image=assets/img/d4.png&position=right&size=contain
 +++?image=assets/img/d5.png&position=right&size=contain
-+++?image=assets/img/d6.png&position=right&size=contain?image=assets/img/d7.png&position=right&size=contain+
++++?image=assets/img/d6.png&position=right&size=contain?image=assets/img/d7.png&position=right&size=contain
 @snap[north-west]
 #### 工作回顾
 @snapend
