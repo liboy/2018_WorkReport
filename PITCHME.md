@@ -27,8 +27,6 @@
 
 @fa[arrow-right text-black]
 
----?image=template/img/cityscape.png&position=bottom&size=100% 60%
-
 @snap[north-west span-40]
 @box[bg-green text-white demo-box-step-padding](1. 一门语言#自学脚本语言并开发iOS自动打包脚本)
 @snapend
