@@ -68,7 +68,7 @@
 @snapend
 
 @snap[midpoint span-30]
-家长专属App
+###减低审核风险
 @ul[spaced]
 * UI部分
 * 代码部分
