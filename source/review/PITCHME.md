@@ -44,14 +44,6 @@
 #### 工作回顾
 @snapend
 
-@div[left-50 fragment]
-![](assets/img/d1.png)
-@divend
-
-@div[right-50 fragment]
-![](assets/img/d1.png)
-@divend
-
 +++
 @snap[north-west]
 #### 工作回顾
@@ -69,6 +61,18 @@
 @ulend
 @snapend
 
+@div[right-50 fragment]
+![](assets/img/d1.png)
+@divend
+@div[right-50 fragment]
+![](assets/img/d2.png)
+@divend
+@div[right-50 fragment]
+![](assets/img/d3.png)
+@divend
+@div[right-50 fragment]
+![](assets/img/d4.png)
+@divend
 
 +++
 @snap[north-west]
