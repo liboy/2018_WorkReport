@@ -46,7 +46,7 @@
 @snapend
 
 @snap[midpoint]
-@size[3em](成长)
+@size[2em](成长)
 @snapend
 
 ---?image=template/img/pencils.jpg
