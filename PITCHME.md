@@ -67,8 +67,9 @@
 #### 2019工作规划
 @snapend
 
+
+@snap[midpoint span-30]
 降低被拒风险
-@snap[west span-50]
 @ul[spaced]
 * UI部分
 * 代码部分
@@ -77,25 +78,32 @@
 @ulend
 @snapend
 
-@snap[east span-50]
+@snap[north-east span-50]
 @ul[spaced]
-* UI部分
-    * icon和启动图替换
-    * 代码里面文案修改
-    * 修改主色调
-* 代码部分
-    * 修改工程名字
-    * 修改类名，类前缀修改
-    * 修改函数名前缀
-    * 打乱方法顺序
-    * 添加混淆代码、一些无用的代码
-* 资源部分
-    * 图片资源改名；
-    * 适当添加一些无用的资源；
-    * 改变图片的hash值，不要让检测到以前被拒的资源
-* 打包提审
-    1. 打包电脑
-    2. 上传IP
-    3. 材料相似
+* icon和启动图替换
+* 代码里面文案修改
+* 修改主色调
+@ulend
+@snapend
+
+@snap[south-east span-50]
+@ul[spaced]
+* 修改工程名字
+* 修改类名，类前缀修改
+* 修改函数名前缀
+* 打乱方法顺序
+* 添加混淆代码、一些无用的代码
+
+* 图片资源改名；
+* 适当添加一些无用的资源；
+* 改变图片的hash值，不要让检测到以前被拒的资源
+@ulend
+@snapend
+
+@snap[south-west span-50]
+@ul[spaced]
+1. 打包电脑
+2. 上传IP
+3. 材料相似
 @ulend
 @snapend
