@@ -119,6 +119,21 @@
 
 硬件升级 or 增加补助
 
+---?image=template/img/pencils.jpg
+@snap[west span-35 text-right]
+小鸡问母鸡：“妈妈，今天可否不用下蛋，带我出去玩啊”? 
+母鸡道：“不行的，我要工作”。
+“可你已经下了许多的蛋了”小鸡问。
+母鸡意味深长的对小鸡说：“一天一个蛋，菜刀靠边站，一月不生蛋，高压锅里见。”
+@snapend
+
+@snap[east span-50]
+![IMG_9830](media/IMG_9830.jpg)
+
+@snapend
+
+存在是因为创造价值!淘汰是因为价值丧失。过去的价值不代表未来的地位。所以每天都要努力!
+
 ---?image=template/img/questions-3.png&size=auto 60%
 @snap[north-west]
 ## @color[black](谢谢大家)
