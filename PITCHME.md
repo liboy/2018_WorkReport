@@ -115,7 +115,7 @@
 @snapend
 
 @snap[north-west template-note text-black]
-Quotation cloud template.
+2019自身规划
 @snapend
 
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
