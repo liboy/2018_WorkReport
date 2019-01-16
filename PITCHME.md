@@ -16,7 +16,7 @@
 - 我的成长和反思
 - 2019年工作规划
 - 对部门和公司的建议
-- 为市场年附能
+- 为市场年赋能
 @ulend
 @snapend
 
@@ -121,7 +121,7 @@
 
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @snap[north-west]
-## @color[black](市场附能)
+## @color[black](市场赋能)
 @snapend
 
 @snap[east span-30 text-28 text-left text-white]
