@@ -136,7 +136,7 @@
 ## @color[black](我的建议)
 @snapend
 
-硬件升级 or 增加补助
+多组织一些员工的技术交流和技术分享会
 
 ---?image=template/img/pencils.jpg
 
