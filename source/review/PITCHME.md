@@ -44,7 +44,7 @@
 #### 工作回顾
 @snapend
 
-@snap[west span-55]
+@snap[west text-08 span-55]
 封装类18个
 @ul[spaced]
 - 常用的UI类封装
