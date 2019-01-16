@@ -39,27 +39,6 @@
 @box[bg-pink text-white](3.#爱校星共享APP上线，让家长APP面向更广小众培训机构申请即可入驻.)
 @snapend
 
-+++?image=assets/img/debugger.gif&position=right&size=contain
-@snap[north-west]
-#### 工作回顾
-@snapend
-
-@snap[west span-50]
-调试工具
-@ul[spaced]
-* 切换不同机构
-* 切换不同环境
-* 切换不同模板
-* 添加自定义机构ID
-* 随时查看调试日志
-* 添加自定义IP
-@ulend
-@snapend
-
-@snap[south-west text-red  span-50]
-@size[1em](提升测试和调试效率30%)
-@snapend
-
 +++
 @snap[north-west]
 #### 工作回顾
@@ -98,3 +77,23 @@
 @size[1em](节省了90%时间)
 @snapend
 
++++?image=assets/img/debugger.gif&position=right&size=contain
+@snap[north-west]
+#### 工作回顾
+@snapend
+
+@snap[west span-50]
+调试工具
+@ul[spaced]
+* 切换不同机构
+* 切换不同环境
+* 切换不同模板
+* 添加自定义机构ID
+* 随时查看调试日志
+* 添加自定义IP
+@ulend
+@snapend
+
+@snap[south-west text-red  span-50]
+@size[1em](提升测试和调试效率30%)
+@snapend
