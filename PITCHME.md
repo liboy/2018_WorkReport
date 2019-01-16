@@ -120,7 +120,7 @@
 硬件升级 or 增加补助
 
 ---?image=template/img/pencils.jpg
-@snap[west span-35 text-right]
+@snap[west span-35 text-16]
 小鸡问母鸡：“妈妈，今天可否不用下蛋，带我出去玩啊”? 
 母鸡道：“不行的，我要工作”。
 “可你已经下了许多的蛋了”小鸡问。
