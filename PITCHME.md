@@ -132,7 +132,9 @@
 
 @snapend
 
+@snap[south span-65]
 存在是因为创造价值!淘汰是因为价值丧失。过去的价值不代表未来的地位。所以每天都要努力!
+@snapend
 
 ---?image=template/img/questions-3.png&size=auto 60%
 @snap[north-west]
