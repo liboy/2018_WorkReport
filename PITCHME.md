@@ -139,7 +139,9 @@
 多组织一些员工的技术交流和技术分享会
 
 ---?image=template/img/pencils.jpg
-
+@snap[north-west]
+## @color[black](小故事大道理)
+@snapend
 @snap[west text-08 span-70]
 小鸡问母鸡：“妈妈，今天可否不用下蛋，带我出去玩啊”? 
 <br>
