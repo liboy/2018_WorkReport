@@ -64,6 +64,10 @@
 @img[shadow](assets/img/conference.png)
 @snapend
 
+@snap[south text-white  span-100]
+@size[1em](提升了20%开发时间)
+@snapend
+
 
 +++?image=template/img/bg/blue.jpg&position=bottom&size=100% 15%
 @snap[north-west]
