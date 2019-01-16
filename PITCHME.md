@@ -99,6 +99,25 @@
 @ulend
 @snapend
 
+---?image=template/img/quotes.jpg
+@snap[south-east span-50]
+@quote[至少做一次技术分享]
+<br>
+@snapend
+
+@snap[north-west]
+<br>
+@quote[至少做一个项目通用工具插件!]
+@snapend
+
+@snap[south-west span-20]
+@quote[至少写一个项目开发文档!]
+@snapend
+
+@snap[north-west template-note text-black]
+Quotation cloud template.
+@snapend
+
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @snap[north-west]
 ## @color[black](市场附能)
