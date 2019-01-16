@@ -136,8 +136,8 @@
 
 @snapend
 
-@snap[south text-06 span-100]
-存在是因为创造价值!淘汰是因为价值丧失。过去的价值不代表未来的地位。所以每天都要努力!
+@snap[south text-05 span-100]
+存在是因为你创造价值,淘汰是因为你失去价值。过去的价值不代表未来,所以每天都要努力!
 @snapend
 
 ---?image=template/img/questions-3.png&size=auto 60%
